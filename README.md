@@ -23,4 +23,4 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ✔ 2. A classe **Nokia** e **Iphone** devem ser classes filhas de Smartphone.
 
-✔ 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
+✔ 3. O método **InstallApp** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
